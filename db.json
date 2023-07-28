@@ -1,0 +1,31 @@
+{
+    "news":[
+        {
+            "id": 1,
+            "title": "Telomoyo Buka Lagi",
+            "desc": "Setelah libur panjang lebaran, Angkringan Telomoyo aktif lagi",
+            "top": "Akhirnya setelah libur panjang lebaran, Angkringan Telomoyo sudah mulai bisa dikunjungi kembali",
+            "image": "angkringan.jpg",
+            "bottom": "Angkringan Telomoyo mulai buka pada tanggal 10 mei 2023",
+            "category":{
+                "id": 11,
+                "nama": "news1",
+        },
+         {
+           "id": 2,
+            "title": "Baswara Punya Menu Baru!",
+            "desc": "Semakin aktif, Kedai Baswara memunculkan menu barunya",
+            "image":"coffee-beans.jpg",
+            "top": "Setelah aturan PPKM yang sudah mulai meredup, Kedai Baswara semakin Ramai pengunjung tiap harinya!",
+            "bottom": "Selain semakin ramainya pengunjung, kini Kedai Baswara memiliki sebuah varian menu baru. Penasaran? silahkan langsung menuju ke Kedai Baswara!"
+        },
+         {
+           "id": 3,
+            "title": "Nogpi Gelar Gigs",
+            "desc": "Sukses dengan gigs pertama, Nogpi Huis siap gelar gigs berikutnya",
+            "image": "gigs.jpg",
+            "top": "Setelah sukses dengan gigs kecil-kecilan di Huis mereka, Nogpi berencana gelar gigs lagi",
+            "bottom": "Sama dengan gigs yang pertama, tempat di rahasiakan. Ingin ikut? Grab your ticket first!"
+        }
+    ]
+}
